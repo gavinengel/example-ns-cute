@@ -1,0 +1,6 @@
+platforms/
+lib/
+node_modules/
+.ab
+*.apk
+*.ipa

@@ -1,0 +1,6 @@
+title: Cuteness Reddit Aggregator
+slug: sample-ns-cuteness
+page_title: Cuteness Reddit Aggregator | NativeScript Sample | Telerik Platform
+description: This sample shows you how to create an app with master-details user interface. The app pulls the items in the master view from the Internet.
+tags: NativeScript, iOS, Android, Reddit, master-detail, master-details, GridLayout, StackLayout, ScrollView, TabView, view model, fps-meter
+content_filter: true
